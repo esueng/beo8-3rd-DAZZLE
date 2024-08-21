@@ -59,7 +59,7 @@
 
 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1BwDPidkpetFnJJlZS7qsGjAW7jzDRFPLOQTfYpE8VCw/edit?gid=0#gid=0)
 <p align="center">
-  <img alt="요구사항 명세서" src="https://github.com/user-attachments/assets/6af157a0-b362-4c5f-99bf-80e86771cabc" />
+  <img alt="요구사항 명세서" src="https://github.com/user-attachments/assets/a23e5bc8-6f09-4496-9455-de40472bfc64" />
 </p>
 <br>
 
@@ -102,9 +102,11 @@
 
 ### 3. Test Case
 
+[Test Case 바로가기](https://docs.google.com/spreadsheets/d/1oyT1vbGl-SeE_M7-XgS_0SDHEnpquFyEUZsGSfqJK7A/edit?gid=0#gid=0)
+<p align="center">
+  <img alt="Test Case" src="https://github.com/user-attachments/assets/1c6e56d2-eec5-4f9d-9f54-cdc70253a518" />
+</p>
 <br>
-
-
 
 ## 📆 WBS
 
