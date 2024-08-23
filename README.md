@@ -3,6 +3,8 @@
 > [PLAYDATA] 한화시스템 BEYOND SW캠프 / DAZZLE
 
 > Team - PotatoSpot
+
+> Site - https://dazzle-ashen.vercel.app/
 <br>
 
 ## ✨ Medium
@@ -59,7 +61,7 @@
 
 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1BwDPidkpetFnJJlZS7qsGjAW7jzDRFPLOQTfYpE8VCw/edit?gid=0#gid=0)
 <p align="center">
-  <img alt="요구사항 명세서" src="https://github.com/user-attachments/assets/a23e5bc8-6f09-4496-9455-de40472bfc64" />
+  <img alt="요구사항 명세서" src="https://github.com/user-attachments/assets/a718b814-aa58-4afd-8374-6503bb87218b" />
 </p>
 <br>
 
@@ -77,11 +79,42 @@
 
 - 메인 페이지
   <br>
-  <img width="367" alt="image" src="https://github.com/user-attachments/assets/418bc4ea-0f3b-4c54-9f11-02dda5dd3255">
+  <img width="367" alt="메인 페이지" src="https://github.com/user-attachments/assets/418bc4ea-0f3b-4c54-9f11-02dda5dd3255">
+
+- 지도 페이지
+  <br>
+  <img width="525" alt="지도 페이지" src="https://github.com/user-attachments/assets/a760b1b8-fe54-4345-974d-90f41e115c3b">
+
+
+- 지도에서 위치 클릭 시
+  <br>
+  <img width="525" alt="지도에서 위치 클릭 시" src="https://github.com/user-attachments/assets/e41dbb0f-01b4-47aa-992f-12db4012dcc8">
+
+- 마이 페이지
+  <br>
+  <img width="525" alt="마이 페이지" src="https://github.com/user-attachments/assets/5a96706c-7167-4470-9dab-3dc346c8241d">
+
+- 랭킹 리스트 컴포넌트
+  <br>
+  <img width="525" alt="랭킹 컴포넌트" src="https://github.com/user-attachments/assets/368d78ff-c7b3-48b6-9202-5bcb79056f34">
 
 <br>
 
 ### 3. StoryBoard
+
+[StroyBoard 바로가기]()
+
+- 메인 페이지
+  <br>
+  
+  
+- 지도 페이지
+  <br>
+  
+  
+- 마이 페이지
+  <br>
+  
 
 <br>
 
@@ -112,6 +145,7 @@
 
 [WBS 바로가기](https://docs.google.com/spreadsheets/d/1GuCw2WvOrrxhWfypxqb4s6x8dEi3A9ffmgd-4dKuXtw/edit?gid=0#gid=0)
 <p align="center">
+  <img alt="WBS" src="https://github.com/user-attachments/assets/38f03396-7ac4-4be7-80a3-997b2fc3e781">
 </p>
 <br>
 
@@ -119,7 +153,7 @@
 
 [김도하](https://github.com/esueng)|[김종원](https://github.com/jongwon-kr)|[이은서](https://github.com/tkckdnjs)|[임지훈](https://github.com/limjihoon99)|[정수진](https://github.com/Sujina2024)|
 ------|------|------|--------------------------------------|------|
-<img alt="김도하" src="" width="400"/> | <img alt="김종원" src="" width="400"/> | <img alt="이은서" src="" width="400"/> | <img alt="임지훈" src="" width="400"/> | <img alt="정수진" src="" width="400"/> | 
+<img alt="김도하" src="https://github.com/user-attachments/assets/3d1f837d-012f-4f3a-ac5b-bbd038b6fc0d" width="400"/> | <img alt="김종원" src="https://github.com/user-attachments/assets/25b20fa4-ec92-4133-b08b-e68b82a98e88" width="400"/> | <img alt="이은서" src="https://github.com/user-attachments/assets/4d974e26-5eb0-479f-9731-172347f2ddda" width="400"/> | <img alt="임지훈" src="https://github.com/user-attachments/assets/16859c17-e7a7-4e23-8cc6-464df8fad7ff" width="400"/> | <img alt="정수진" src="https://github.com/user-attachments/assets/d235e42a-c5d5-4016-a071-914e7edbd1bd" width="400"/> | 
 Developer|Developer|Developers|Leader, Developer|Developer|
 
 <br>
@@ -129,7 +163,7 @@ Developer|Developer|Developers|Leader, Developer|Developer|
 |:---:|---|
 |김도하|&nbsp;|
 |김종원|&nbsp;|
-|이은서|&nbsp;|
+|이은서|&nbsp;뷰를 처음 다뤄봐서 처음에는 어렵고 어색했지만, 팀원들의 도움을 받아 하나씩 해결해나갈수 있었던것 같습니다. 이번 기회에 vue를 사용할 수 있어서 너무 좋았습니다. 비록 제가 한건 많이 없지만 좋은 팀원들과 완벽한 결과물이 나온거 같아서 너무 뿌듯합니다!|
 |임지훈|&nbsp;|
 |정수진|&nbsp;|
 <br>
